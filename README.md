@@ -34,14 +34,6 @@ The cells are ordered so that the entire workflow executes correctly when run se
 
 ---
 
-## Project Structure
-```
-Co_Watched_Film_Rules.ipynb   ← Main (and only required) file
-README.md                     ← Documentation
-```
-
----
-
 ## Notes
 - Exported results (e.g., CSV or JSON) are optional and created by the notebook.  
 - Running on Google Cloud is recommended due to dataset size and intensive computation.
